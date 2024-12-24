@@ -1,3 +1,12 @@
-Coded a python representation of the Prisoners Dilemma which is a concept within game theory
-The game can take any # of strategies and will provide payoff matrices of the outcome which can also be analyzed in terms of other concepts of linear algebra
-there is a pdf in this github that shows a more detailed analysis of the game
+Python Representation of Prisoners Dilemma Coded by Roni Herschmann for Linear Algebra and Probability Fall 2024
+Detailed Analysis in PDF File
+Any # of strategies can be incorporated
+
+Concepts covered:
+game theory
+matrices
+markov chains
+eigenvalues
+eigenvectors
+linear regression
+and much more.
